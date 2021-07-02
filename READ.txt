@@ -5,3 +5,6 @@ packages.bz2 use json for depiction
 packages.xz use json for depiction
 
 ../pkg is all debs
+
+
+use github desktop to push updates
