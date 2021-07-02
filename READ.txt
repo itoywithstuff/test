@@ -1,0 +1,7 @@
+Packages.bz2 are the deb files for the repo
+Packages.xx are the same as above ^
+index.html uses web/index.css
+packages.bz2 use json for depiction
+packages.xz use json for depiction
+
+../pkg is all debs

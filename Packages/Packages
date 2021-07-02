@@ -1,0 +1,21 @@
+Package: com.ethn.mirage
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: ETHN <ethanwhited2208@gmail.com>
+Filename: ./pkg/com.ethn.mirage.deb
+Size: 14160482
+MD5sum: efb9815debb0f21883c45e7897f201b0
+SHA1: c6699e99a00989885009eff68d98cd75bab007a4
+SHA256: 31c40428b55feb2f7ff7af44043f659fa0b893646c5dbbceb51ba67cda8a4ddc
+Section: Themes
+Homepage: https://nahtedetihw.github.io
+Description: An iOS modern glyphs theme, with beautiful gradients.
+Tag: role::enduser
+Author: ETHN <ethanwhited2208@gmail.com>
+Depiction: https://nahtedetihw.github.io/depiction/web/com.ethn.mirage.html
+Icon: https://nahtedetihw.github.io/assets/com.ethn.mirage/icon.png
+Moderndepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.json
+Name: Mirage
+Sileodepiction: https://nahtedetihw.github.io/depiction/native/com.ethn.mirage.json
+Someotherentrytocontrol: True
+Tags: compatible_min::ios11.0, compatible_max::ios14.3

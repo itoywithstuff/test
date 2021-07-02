@@ -1,0 +1,11 @@
+Origin: itoywithstuff's repo
+Label: itoywithstuff's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: tweaks n stuff
+SHA256:
+5B8B8F8F423128ADF5214F43AFEC8DE793D59B9AD33C164B86F57EBFE5338BA0 Packages.bz2
+B81B4B60A18F2DA46F14A4808BBA6C9886ECF41AA7F55A86F80C6F5450A6BEB9 Packages.xz
